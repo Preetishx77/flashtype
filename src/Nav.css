@@ -1,0 +1,43 @@
+
+h1{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+.nav-container{
+    display: flex;
+    height: 120px;
+    align-items: center;
+    margin: 0;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.26);
+    justify-content: space-between;
+    z-index: 99;
+    
+}
+.nav-left{
+    display: flex;
+    align-items: left;
+}
+.flash-logo{
+    height: 120px;
+    margin-left: 20px;
+    margin-top: 60px;
+}
+.class-logo-text{
+   
+    font-family: "Bangers", cursive;
+    font-size: 4.2rem;
+    letter-spacing: 5px;
+    
+    margin-top: 80px;
+   
+    color: #fff;
+
+}
+.nav-right{
+    margin-right: 40px;
+    
+}
+.right-img{
+    height: 120px;margin-top: 40px;
+}

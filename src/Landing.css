@@ -1,0 +1,43 @@
+.landing-container{
+    display: flex;
+    min-height: 90vh;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    padding: 0 32px;
+    margin: 0;
+    flex-wrap: wrap;
+    font-family: "Bangers",cursive;
+}
+.bolt-image{
+    /* height: 600px; */
+    width: 40vw;
+}
+.landing-header{
+    font-size: 92px;
+    letter-spacing: 4px;
+    margin: 0;
+}
+.typewriter-container{
+    font-size: 64px;
+    letter-spacing: 4px;
+
+}
+@media (max-width: 800px) {
+    .landing-container{
+        flex-direction: column;
+        align-items: center;
+    }
+    .bolt-image{
+        width: 80vw;
+
+    }
+    .landing-header{
+        margin-top: 32px;
+        text-align: center;
+    }
+    .typewriter-container{
+        text-align: center;
+    }
+    
+}
