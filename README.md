@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+# FlashType
+
+React app for testing your typing skills in a minute and sharing your Words per Minute in the social media
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
