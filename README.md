@@ -4,6 +4,10 @@
 
 React app for testing your typing skills in a minute and sharing your Words per Minute in the social media
 
+## Deployed Link 
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
