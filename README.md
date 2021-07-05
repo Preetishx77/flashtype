@@ -6,9 +6,11 @@ React app for testing your typing skills in a minute and sharing your Words per 
 
 ## Deployed Link 
 
+https://preetishx77.github.io/flashtype/
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
